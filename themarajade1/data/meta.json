@@ -1,0 +1,189 @@
+{
+  "author": "themarajade1",
+  "fetched_at_local": "2026-10-14 16:49 MYT",
+  "source": "local Chrome session JSON pagination",
+  "profile_url": "https://www.reddit.com/user/themarajade1/",
+  "counts_raw": {
+    "posts": 565,
+    "comments": 1973
+  },
+  "counts_clean": {
+    "posts": 565,
+    "comments": 1972
+  },
+  "noise_removed": {
+    "posts": 0,
+    "comments": 1
+  },
+  "date_range_clean": {
+    "posts_newest": "2026-07-04 21:23",
+    "posts_oldest": "2018-08-19 00:42",
+    "comments_newest": "2026-10-14 07:24",
+    "comments_oldest": "2025-04-08 21:56"
+  },
+  "browse": "/Users/young/Documents/reddit-themarajade1/browse/index.html",
+  "top_subreddits_posts": [
+    [
+      "BabyBumps",
+      25
+    ],
+    [
+      "Baking",
+      20
+    ],
+    [
+      "AskReddit",
+      16
+    ],
+    [
+      "Knoxville",
+      11
+    ],
+    [
+      "wedding",
+      10
+    ],
+    [
+      "AskDocs",
+      9
+    ],
+    [
+      "StarWarsEU",
+      9
+    ],
+    [
+      "HomeImprovement",
+      7
+    ],
+    [
+      "ihadastroke",
+      7
+    ],
+    [
+      "mildlyinfuriating",
+      7
+    ],
+    [
+      "NoStupidQuestions",
+      6
+    ],
+    [
+      "bisexual",
+      6
+    ],
+    [
+      "blackcats",
+      6
+    ],
+    [
+      "cats",
+      6
+    ],
+    [
+      "antiMLM",
+      5
+    ],
+    [
+      "exchristian",
+      5
+    ],
+    [
+      "whatsthisbug",
+      5
+    ],
+    [
+      "writing",
+      5
+    ],
+    [
+      "starwarsbooks",
+      5
+    ],
+    [
+      "curlyhair",
+      5
+    ]
+  ],
+  "top_subreddits_comments": [
+    [
+      "AskReddit",
+      282
+    ],
+    [
+      "BabyBumps",
+      273
+    ],
+    [
+      "namenerds",
+      161
+    ],
+    [
+      "wedding",
+      68
+    ],
+    [
+      "Knoxville",
+      45
+    ],
+    [
+      "adhdwomen",
+      43
+    ],
+    [
+      "SameGrassButGreener",
+      41
+    ],
+    [
+      "greenville",
+      36
+    ],
+    [
+      "GenZ",
+      35
+    ],
+    [
+      "beyondthebump",
+      28
+    ],
+    [
+      "Spartanburg",
+      26
+    ],
+    [
+      "self",
+      26
+    ],
+    [
+      "ExclusivelyPumping",
+      25
+    ],
+    [
+      "dating_advice",
+      25
+    ],
+    [
+      "mildlyinfuriating",
+      23
+    ],
+    [
+      "ParentingADHD",
+      23
+    ],
+    [
+      "neurodiversity",
+      23
+    ],
+    [
+      "AskDocs",
+      23
+    ],
+    [
+      "ADHD",
+      22
+    ],
+    [
+      "Baking",
+      21
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reddit 本地归档站</title>
+<style>
+:root {
+  --bg:#0b0d12; --panel:#151a24; --text:#eef1f6; --muted:#9aa3b2;
+  --line:#273043; --a:#ff4500; --b:#8ab4f8;
+}
+* { box-sizing:border-box; }
+body {
+  margin:0; min-height:100vh; color:var(--text);
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, #2a1a12 0%, transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, #142038 0%, transparent 50%),
+    var(--bg);
+}
+.wrap { max-width:980px; margin:0 auto; padding:40px 20px 80px; }
+h1 { margin:0 0 8px; font-size:32px; letter-spacing:-.02em; }
+.sub { color:var(--muted); margin-bottom:28px; }
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+@media (max-width:760px) { .grid { grid-template-columns:1fr; } }
+.user-card {
+  display:block; text-decoration:none; color:inherit;
+  background:linear-gradient(180deg, #1b2230, #141925);
+  border:1px solid var(--line); border-radius:16px; padding:20px;
+  transition: transform .15s ease, border-color .15s ease;
+}
+.user-card:hover { transform: translateY(-2px); border-color:#3b4a66; }
+.badge {
+  display:inline-block; background:#2a3140; color:#ffd5c2;
+  border-radius:999px; padding:4px 10px; font-weight:700; margin-bottom:14px;
+}
+.nums { display:flex; gap:18px; margin-bottom:10px; }
+.nums b { font-size:28px; display:block; line-height:1.1; }
+.nums span { color:var(--muted); font-size:13px; }
+.range { color:var(--muted); font-size:13px; min-height:2.8em; }
+.go { margin-top:14px; color:var(--a); font-weight:700; }
+.note {
+  margin-top:28px; padding:14px 16px; border-radius:12px;
+  background:var(--panel); border:1px solid var(--line); color:var(--muted); font-size:13px;
+}
+code { color:#d7dee9; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Reddit 本地归档站</h1>
+    <p class="sub">在线归档站（未主动提交搜索引擎） · 生成于 2026-10-14 16:50 MYT · 任何拿到链接的人可打开</p>
+    <div class="grid">
+      
+    <a class="user-card" href="disbride/index.html">
+      <div class="badge">u/Disbride</div>
+      <div class="nums"><span><b>332</b> 发帖</span><span><b>1928</b> 评论</span></div>
+      <div class="range">发帖 2013-06-27 17:08 → 2026-09-27 19:19<br>评论 2021-08-13 16:21 → 2026-09-27 19:13</div>
+      <div class="go">进入归档 →</div>
+    </a>
+      
+    <a class="user-card" href="themarajade1/index.html">
+      <div class="badge">u/themarajade1</div>
+      <div class="nums"><span><b>565</b> 发帖</span><span><b>1972</b> 评论</span></div>
+      <div class="range">发帖 2018-08-19 00:42 → 2026-07-04 21:23<br>评论 2025-04-08 21:56 → 2026-10-14 07:24</div>
+      <div class="go">进入归档 →</div>
+    </a>
+    </div>
+    <div class="note">
+      数据来自本机 Chrome 登录态导出。部署于 GitHub Pages。请自行保管链接；仓库名较隐蔽，并已设置 robots noindex。
+    </div>
+  </div>
+</body>
+</html>

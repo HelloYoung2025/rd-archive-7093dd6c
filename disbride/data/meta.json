@@ -1,0 +1,188 @@
+{
+  "author": "Disbride",
+  "fetched_at_local": "2026-10-14 16:38 MYT",
+  "source": "local Chrome session JSON pagination",
+  "counts_raw": {
+    "posts": 332,
+    "comments": 1929
+  },
+  "counts_clean": {
+    "posts": 332,
+    "comments": 1928
+  },
+  "noise_removed": {
+    "posts": 0,
+    "comments": 1
+  },
+  "date_range_clean": {
+    "posts_newest": "2026-09-27 19:19",
+    "posts_oldest": "2013-06-27 17:08",
+    "comments_newest": "2026-09-27 19:13",
+    "comments_oldest": "2021-08-13 16:21"
+  },
+  "browse": "/Users/young/Documents/reddit-disbride/browse/index.html",
+  "top_subreddits_posts": [
+    [
+      "CrohnsDisease",
+      16
+    ],
+    [
+      "australia",
+      12
+    ],
+    [
+      "DAAS",
+      11
+    ],
+    [
+      "disneymagickingdoms",
+      11
+    ],
+    [
+      "BabyBumpsandBeyondAu",
+      10
+    ],
+    [
+      "photoshop",
+      10
+    ],
+    [
+      "PleX",
+      9
+    ],
+    [
+      "christmas",
+      9
+    ],
+    [
+      "photography",
+      9
+    ],
+    [
+      "disney",
+      8
+    ],
+    [
+      "bluey",
+      8
+    ],
+    [
+      "BabyBumps",
+      8
+    ],
+    [
+      "TryingForABaby",
+      8
+    ],
+    [
+      "writers",
+      7
+    ],
+    [
+      "chuck",
+      7
+    ],
+    [
+      "pics",
+      7
+    ],
+    [
+      "canadatravel",
+      6
+    ],
+    [
+      "PubTips",
+      6
+    ],
+    [
+      "SpongeBobSquarepants",
+      6
+    ],
+    [
+      "WaltDisneyWorld",
+      5
+    ]
+  ],
+  "top_subreddits_comments": [
+    [
+      "BabyBumpsandBeyondAu",
+      206
+    ],
+    [
+      "bluey",
+      152
+    ],
+    [
+      "breakingmom",
+      146
+    ],
+    [
+      "australia",
+      94
+    ],
+    [
+      "Parenting",
+      80
+    ],
+    [
+      "dcl",
+      79
+    ],
+    [
+      "AskAnAustralian",
+      69
+    ],
+    [
+      "CrohnsDisease",
+      69
+    ],
+    [
+      "GardeningAustralia",
+      53
+    ],
+    [
+      "beyondthebump",
+      49
+    ],
+    [
+      "CleaningTips",
+      43
+    ],
+    [
+      "disney",
+      40
+    ],
+    [
+      "toddlers",
+      40
+    ],
+    [
+      "Muppets",
+      38
+    ],
+    [
+      "BobsBurgers",
+      34
+    ],
+    [
+      "HongKongDisneyland",
+      34
+    ],
+    [
+      "PubTips",
+      34
+    ],
+    [
+      "Disneyland",
+      27
+    ],
+    [
+      "AmIOverreacting",
+      25
+    ],
+    [
+      "AusSkincare",
+      24
+    ]
+  ]
+}
